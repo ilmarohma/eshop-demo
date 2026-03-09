@@ -1,5 +1,4 @@
-package ChainOfResponsibility;
-
+package chainofresponsibility;
 
 public class MoneyChangerOld {
     public static void main(String[] args){
